@@ -10,7 +10,7 @@ from distutils.version import LooseVersion
 
 ###################################################################
 #                Sonatype Nexus - Old Package Remover
-#                        (YUM Repositorys)
+#                        (YUM Repositories)
 ###################################################################
 #
 # This script removes old unused packages from yum repositories
